@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisioDocument>
+	<DocumentProperties>
+		<Title></Title>
+		<HyperlinkBase href=""></HyperlinkBase>
+	</DocumentProperties>
+	<Pages>
+		<Page ID="0" Name="ページ - 1" NameU="Page-1">
+			<PageProps>
+				<PageScale Unit="MM">0.039370078740157</PageScale>
+				<DrawingScale Unit="MM">0.039370078740157</DrawingScale>
+			</PageProps>
+			<Shapes>
+				<Shape ID="1" UniqueID="{3CA54BE8-BAE1-4E52-A9C7-32B1127CC143}" Name="Sheet.1" NameU="Sheet.1">
+					<Text>MOTOごとの役割確認
+
+＊MOTO呼称は変更の可能性アリ
+　MOTO1→バイク【A】…【C】
+
+◆MOTO1
+　メイン映像担当
+　優先的にOAへ使用
+
+◆MOTO2
+　レース状況補完
+　アタック対応
+　MOTO1補完
+
+◆MOTO3
+　集団情報
+　レース後方状況
+　補完映像
+
+◆伝送MOTO（MOTO1とペア）
+　伝送確保
+　通信維持</Text>
+					<XForm>
+						<PinX Unit="MM">2.795275590551182</PinX>
+						<PinY Unit="MM">4.940470992478630</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="3" UniqueID="{1E6B2787-3D1A-4F32-9E38-7DBFAC79C965}" Name="Sheet.3" NameU="Sheet.3">
+					<Text>スタッフ構成</Text>
+					<XForm>
+						<PinX Unit="MM">5.246062992125983</PinX>
+						<PinY Unit="MM">7.086614173228345</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="4" UniqueID="{2B4C187A-4F5A-4E6B-AA02-32E7DDC67B9B}" Name="Sheet.4" NameU="Sheet.4">
+					<XForm>
+						<PinX Unit="MM">10.360644055257742</PinX>
+						<PinY Unit="MM">4.243793008853572</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="5" UniqueID="{6669512C-D77E-448C-9185-F67EC31AD12E}" Name="Sheet.5" NameU="Sheet.5">
+					<XForm>
+						<PinX Unit="MM">9.444370706342413</PinX>
+						<PinY Unit="MM">4.241326953365466</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="6" UniqueID="{C5F7198C-A5D4-483A-B94E-5D27FFBFAE47}" Name="Sheet.6" NameU="Sheet.6">
+					<XForm>
+						<PinX Unit="MM">9.448818897637791</PinX>
+						<PinY Unit="MM">3.272762900551465</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="7" UniqueID="{BA6A4B99-3487-4135-9C3D-24167FDE69A1}" Name="Sheet.7" NameU="Sheet.7">
+					<XForm>
+						<PinX Unit="MM">9.422416297766679</PinX>
+						<PinY Unit="MM">5.985108963430564</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="8" UniqueID="{8549EA92-5A56-4796-9802-3DF72FEEE641}" Name="Sheet.8" NameU="Sheet.8">
+					<XForm>
+						<PinX Unit="MM">10.392203639391942</PinX>
+						<PinY Unit="MM">5.984309218951861</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="9" UniqueID="{1D63F05C-0ABD-41D3-A71D-8F5C9D2F512E}" Name="Sheet.9" NameU="Sheet.9">
+					<XForm>
+						<PinX Unit="MM">9.411014247194173</PinX>
+						<PinY Unit="MM">2.360976541764394</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="10" UniqueID="{5BE612DA-A78E-424C-9CB1-C1D530C46119}" Name="Sheet.10" NameU="Sheet.10">
+					<XForm>
+						<PinX Unit="MM">6.555118110236220</PinX>
+						<PinY Unit="MM">4.343503937007874</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="12" UniqueID="{207407D6-87C0-4B3A-AA23-7CE2A5298E65}" Name="Sheet.12" NameU="Sheet.12">
+					<XForm>
+						<PinX Unit="MM">1.944881889763780</PinX>
+						<PinY Unit="MM">5.836614173228346</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="13" UniqueID="{39ED45EE-9F34-4C8E-A53E-CA55D4528D6E}" Name="Sheet.13" NameU="Sheet.13">
+					<XForm>
+						<PinX Unit="MM">1.944881889763780</PinX>
+						<PinY Unit="MM">3.051181102362204</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="14" UniqueID="{1C75F334-24D9-4723-AAC9-A5DF5924EFAA}" Name="Sheet.14" NameU="Sheet.14">
+					<XForm>
+						<PinX Unit="MM">2.027559055118111</PinX>
+						<PinY Unit="MM">1.223821929750679</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="18" UniqueID="{BD6A179A-4850-4200-A569-B9B2647E0263}" Name="Sheet.18" NameU="Sheet.18">
+					<XForm>
+						<PinX Unit="MM">3.248031496062993</PinX>
+						<PinY Unit="MM">1.322247126601074</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="19" UniqueID="{817EECC3-44B9-44B3-9F32-EA8481D7B28C}" Name="電波" NameU="電波" Master="2">
+					<XForm>
+						<PinX Unit="MM">2.053641732283465</PinX>
+						<PinY Unit="MM">1.322247126601074</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="20" UniqueID="{EE100D05-A028-4C0D-8C63-F54FE92A087A}" Name="Sheet.20" NameU="Sheet.20">
+					<XForm>
+						<PinX Unit="MM">1.354829762375258</PinX>
+						<PinY Unit="MM">2.370764218479465</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="21" UniqueID="{E6BBA6C7-0C02-478C-89CF-F4FFC96D4DAE}" Name="wifi電波１" NameU="wifi電波１" Master="4">
+					<XForm>
+						<PinX Unit="MM">1.293795853376691</PinX>
+						<PinY Unit="MM">1.986005482249872</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="22" UniqueID="{96283277-35BF-4972-BEF3-3336B649E912}" Name="Sheet.22" NameU="Sheet.22">
+					<Text>ツール・ド・九州2026　MOTO体制</Text>
+					<XForm>
+						<PinX Unit="MM">4.271653543307085</PinX>
+						<PinY Unit="MM">7.552165354330708</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="23" UniqueID="{C968D046-D8B7-4232-A3E7-F1DB263ED678}" Name="Sheet.23" NameU="Sheet.23">
+					<XForm>
+						<PinX Unit="MM">10.393700787401576</PinX>
+						<PinY Unit="MM">5.102311117196410</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="24" UniqueID="{96D7AD91-1A93-4594-A2E5-0BB0C8D0C19A}" Name="Sheet.24" NameU="Sheet.24">
+					<XForm>
+						<PinX Unit="MM">9.399827838881304</PinX>
+						<PinY Unit="MM">5.111354605994948</PinY>
+					</XForm>
+				</Shape>
+			</Shapes>
+		</Page>
+	</Pages>
+</VisioDocument>
